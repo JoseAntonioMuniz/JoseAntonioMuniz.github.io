@@ -59,32 +59,27 @@ education:
     date_start: 2020-09
     date_end: forthcoming
     summary: |
-      Thesis on _- Information Retrieval_. Supervised by [Dr. Charles Larkin](https://researchportal.bath.ac.uk/en/persons/charles-larkin). Presented papers at 5 conferences with the contributions being under 1 R&R and 2 under review.
+      Thesis on _SOEMTHING_. Supervised by [Dr. Charles Larkin](https://researchportal.bath.ac.uk/en/persons/charles-larkin). Presented papers at 5 conferences with the contributions being under 1 R&R and 2 under review.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MBA
+    institution: IPADE Business School
+    date_start: 2014-08
+    date_end: 2016-06
     summary: |
-      GPA: 3.8/4.0
+      Six month exchange period at Solvay Business School
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+
+  - area: BSc Actuarial Sciencd
+    institution: ITAM
+    date_start: 2008-08
+    date_end: 2012-12
     summary: |
       GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
