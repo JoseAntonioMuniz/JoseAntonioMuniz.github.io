@@ -65,16 +65,16 @@ education:
       url: 'https://example.com'
   - area: MBA
     institution: IPADE Business School
-    date_start: '2014'
-    date_end: '2016'
+    # date_start: '2014'
+    # date_end: '2016'
     summary: |
       Six-month exchange period at Solvay Business School
 
 
   - area: BSc Actuarial Sciences
     institution: ITAM
-    date_start: '2008'
-    date_end: '2012'
+   # date_start: '2008'
+    # date_end: '2012'
 
 
 
