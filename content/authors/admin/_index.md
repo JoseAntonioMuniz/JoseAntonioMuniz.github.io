@@ -56,7 +56,7 @@ interests:
 education:
   - area: PhD Finance
     institution: University of Bath
-    date_start: 2020-09
+    date_start: '2020'
     date_end: forthcoming
     summary: |
       Thesis on _SOEMTHING_. Supervised by [Dr. Charles Larkin](https://researchportal.bath.ac.uk/en/persons/charles-larkin). Presented papers at 5 conferences with the contributions being under 1 R&R and 2 under review.
@@ -65,18 +65,17 @@ education:
       url: 'https://example.com'
   - area: MBA
     institution: IPADE Business School
-    date_start: 2014-08
-    date_end: 2016-06
+    date_start: '2014'
+    date_end: '2016'
     summary: |
-      Six month exchange period at Solvay Business School
+      Six-month exchange period at Solvay Business School
 
 
-  - area: BSc Actuarial Sciencd
+  - area: BSc Actuarial Sciences
     institution: ITAM
-    date_start: 2008-08
-    date_end: 2012-12
-    summary: |
-      GPA: 3.4/4.0
+    date_start: '2008'
+    date_end: '2012'
+
 
 
 
@@ -125,26 +124,25 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Run
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: running
+      - name: Movies
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: movie
+      - name: Football
         description: ''
         percent: 80
-        icon: camera
+        icon: soccer
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Spanish (Native language)
+    percent: 100 
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
