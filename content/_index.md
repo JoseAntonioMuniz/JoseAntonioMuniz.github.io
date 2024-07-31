@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Jose Antonio_CV.pdf
     design:
       css_class: dark
       background:
@@ -35,17 +35,17 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a researcher at the Finance division at the University of Bath and part of the Institute of Policy Research (IPR). I write about responsible investing, AI, econometrics and financial mathetmatics.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I apply various quantitative methods to investigate the role of finance and investing in the economy and its policy implications. 
         
-        Please reach out to collaborate 😃
+        Please reach out to collaborate. 
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Publications and WIP (delete)
       filters:
         folders:
           - publication
@@ -55,7 +55,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications and WIP
       text: ""
       filters:
         folders:
@@ -66,7 +66,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent Talks
       filters:
         folders:
           - event
