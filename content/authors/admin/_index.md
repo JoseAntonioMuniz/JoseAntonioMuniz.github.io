@@ -56,8 +56,8 @@ interests:
 education:
   - area: PhD Finance
     institution: University of Bath
-    date_start: '2020'
-    date_end: forthcoming
+    # date_start: '2020'
+     # date_end: forthcoming
     summary: |
       Thesis on _SOEMTHING_. Supervised by [Dr. Charles Larkin](https://researchportal.bath.ac.uk/en/persons/charles-larkin). Presented papers at 5 conferences with the contributions being under 1 R&R and 2 under review.
     button:
